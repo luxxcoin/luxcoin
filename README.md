@@ -1,1 +1,1 @@
-Tutorial install in release
+Tutorial install in releases
