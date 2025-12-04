@@ -1,7 +1,7 @@
 Luxcoin Core integration/staging tree
 https://luxcoincore.org
 
-For an immediately usable, binary version of the Bitcoin Core software, see https://luxcoincore.org/en/download/.
+For an immediately usable, binary version of the Luxcoin Core software, see https://luxcoincore.org/en/download/.
 
 What is Luxcoin Core?
 Luxcoin Core connects to the Luxcoin peer-to-peer network to download and fully validate blocks and transactions. It also includes a wallet and graphical user interface, which can be optionally built.
@@ -32,7 +32,7 @@ Manual Quality Assurance (QA) Testing
 Changes should be tested by somebody other than the developer who wrote the code. This is especially important for large or high-risk changes. It is useful to add a test plan to the pull request description if testing the changes is not straightforward.
 
 Translations
-Changes to translations as well as new translations can be submitted to Bitcoin Core's Transifex page.
+Changes to translations as well as new translations can be submitted to Luxcoin Core's Transifex page.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the translation process for details on how this works.
 
