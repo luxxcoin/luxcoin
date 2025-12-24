@@ -14,7 +14,7 @@ Luxcoin Core is released under the terms of the MIT license. See COPYING for mor
 Development Process
 The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. Tags are created regularly from release branches to indicate new official, stable release versions of Luxcoin Core.
 
-The https://github.com/luxcoin-core/gui repository is used exclusively for the development of the GUI. Its master branch is identical in all monotree repositories. Release branches and tags do not exist, so please do not fork that repository unless it is for development reasons.
+The https://github.com/luxxcoin/luxcoin/gui repository is used exclusively for the development of the GUI. Its master branch is identical in all monotree repositories. Release branches and tags do not exist, so please do not fork that repository unless it is for development reasons.
 
 The contribution workflow is described in CONTRIBUTING.md and useful hints for developers can be found in doc/developer-notes.md.
 
